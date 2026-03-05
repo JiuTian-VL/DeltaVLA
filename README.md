@@ -6,8 +6,8 @@ World Knowledge Variation </h2>
     <a href="https://orcid.org/0009-0001-9102-7051" target="_blank">Jie He</a><sup>1</sup>,
     <a href="https://rshaojimmy.github.io/OrionLab/" target="_blank">Rui Shao*</a><sup>1</sup>,
     <a href="https://scholar.google.com/citations?user=LiIKEyMAAAAJ&hl=zh-CN" target="_blank">Kaishen Yuan</a><sup>3</sup>,
-    <a href="https://zitongyu.github.io/" target="_blank">Xiaochen Yuan</a><sup>4</sup>, 
-    <a href="https://zitongyu.github.io/" target="_blank">Tao Tan</a><sup>4</sup>, 
+    <a href="https://scholar.google.com/citations?user=p-RYbb0AAAAJ&hl=en" target="_blank">Xiaochen Yuan</a><sup>4</sup>, 
+    <a href="https://research.mpu.edu.mo/en/persons/tao-tan/" target="_blank">Tao Tan</a><sup>4</sup>, 
     <a href="https://zitongyu.github.io/" target="_blank">Zitong Yu*</a><sup>2</sup>, 
 </div>
 <sup>1</sup>School of Computer Science and Technology, Harbin Institute of Technology, Shenzhen<br>
