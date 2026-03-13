@@ -17,7 +17,7 @@ Science and Technology, Guangzhou<br>
 <sup>4</sup> Macao Polytechnic University
    
 *Corresponding author<br>
-
+[![arXiv](https://img.shields.io/badge/arXiv-2603.08361-b31b1b.svg?logo=arxiv)](https://arxiv.org/pdf/2603.08361)
 
 <h3 align="center">
     <strong>
